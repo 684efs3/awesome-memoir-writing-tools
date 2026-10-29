@@ -67,6 +67,7 @@ Collecting the dated evidence, photos, and records that anchor what you remember
 - [Legacybox](https://www.legacybox.com/) - Mail-in service that digitizes tapes, film, slides, and photos.
 - [FamilySearch](https://www.familysearch.org/) - Free genealogy records and family tree for checking dates, places, and names.
 - [MyHeritage](https://www.myheritage.com/) - Genealogy platform with historical records and family tree tools.
+- [Name Awesome](https://nameawesome.com/) - Free U.S. first-name history since 1880 with meanings, origins, and popularity by year.
 - [Internet Archive](https://archive.org/) - Digital library of books, newspapers, and web pages for period detail.
 
 ## Structure and Timelines
